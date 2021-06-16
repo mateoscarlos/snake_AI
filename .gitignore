@@ -1,0 +1,22 @@
+build-*/
+trial/ppt_ann/venv/
+trial/ppt_ann/*.cfg
+trial/ppt_ann/.idea/
+__pycache__/
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+.*pygtex
+.*synctex*
+doc/memory*/_minted*/
