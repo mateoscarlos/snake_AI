@@ -7,12 +7,11 @@ This project consists of the development of a neural network capable of playing 
 The project was presented on Monday June 7th, 2021 at the Colegio Salesiano Santo Domingo Savio.
 
 ## Authors:
-Carlos Pérez Mateos ([mateoscarlos](https://gitlab.com/mateoscarlos))  
-Dragos Butnariu ([disced](https://gitlab.com/disced))  
-Ovidiu Aricsan ([Aricsan](https://gitlab.com/Aricsan))  
+Carlos Pérez Mateos (<a href="https://gitlab.com/mateoscarlos" target="_blank">mateoscarlos</a>)  
+Dragos Butnariu (<a href="https://gitlab.com/disced" target="_blank">disced</a>)  
+Ovidiu Aricsan (<a href="https://gitlab.com/Aricsan" target="_blank">Aricsan</a>)  
 
-Project tutor:
-[txemagon](https://gitlab.com/txemagon)
+Project tutor: <a href="https://gitlab.com/txemagon" target="_blank">txemagon</a>  
 
 
 ### More information about the project:
